@@ -2,18 +2,18 @@
 
 A collection of small Java projects I build while learning, experimenting, and improving my programming skills.
 
-Each project focuses on applying Java concepts to something practical rather than just learning them theoretically.
+Each project focuses on applying Java concepts to practical applications.
 
 ## 📌 Projects
 
 | Project                                | Description                                                                                     | Technologies       |
 | -------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------ |
-| 🐍 [Snake Game](./snake-game)          | A classic Snake game with levels, multiple food types, scoring, and increasing difficulty.      | Java, Swing, Maven |
+| 🐍 [Snake Game](./snake-game)          | A classic Snake game featuring multiple food types, scoring, and increasing difficulty.         | Java, Swing, Maven |
 | ✅ [To-Do List Application](./ToDoList) | A desktop task management application with a graphical interface for adding and managing tasks. | Java, Swing, AWT   |
 
 ## 🎯 Purpose
 
-This repository is a space for experimenting with Java and building small projects that help me strengthen:
+This repository helps me strengthen my understanding of:
 
 * Java fundamentals
 * Object-Oriented Programming
